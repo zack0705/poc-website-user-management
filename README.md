@@ -16,3 +16,4 @@ For the REST endpoints I created a UserController class. It handles the routing 
 And finally for security, I used Spring Security and Java JWT dependencies. I created authentication and authorization functionalities for it.
 
 ### Frontend
+Since I use Angular for frontend functionalities, I created the required components of login, register, update, delete and users. I then connected the components by setting up the routes from one component to other. For example users component would route to update and delete component. I then created a basic CSS for the webpages.
